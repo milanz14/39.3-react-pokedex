@@ -1,0 +1,9 @@
+.pokecards {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.Pokedex {
+    text-align: center;
+}
